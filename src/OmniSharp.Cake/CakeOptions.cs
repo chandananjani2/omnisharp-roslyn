@@ -1,6 +1,6 @@
 ﻿namespace OmniSharp.Cake
 {
-// Test1
+// Test12
     public sealed class CakeOptions
     {
         public string BakeryPath { get; set; }
