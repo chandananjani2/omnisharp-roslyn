@@ -5,6 +5,7 @@ namespace OmniSharp.MSBuild.Discovery
 {
     public class MSBuildInstance
     {
+        // Some change
         public string Name { get; }
         public string MSBuildPath { get; }
         public Version Version { get; }
